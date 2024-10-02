@@ -12,7 +12,7 @@ import time
 
 
 studentName = "TestStudent"
-inputFileName = 'hw2.py'
+inputFileName = 'submission.py'
 
 #there will likely be 5-10 problems
 problems1 = [
